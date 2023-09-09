@@ -1234,7 +1234,6 @@ return {
 			loadSpeed = 2,
             reversible = true,
 			multipleUnitOnly = false,
-            reversible = true,
             groupFileName = "vehicle/train/vt90_137/menu_vt90_137.mdl",
         },
 	},
