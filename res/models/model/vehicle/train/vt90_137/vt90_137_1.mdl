@@ -293,7 +293,7 @@ return {
 			},
 			static = false,
 			visibleFrom = 0,
-			visibleTo = 150,
+			visibleTo = 100,
 		},
 		{
 			node = {
@@ -563,8 +563,8 @@ return {
 				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 			},
 			static = false,
-			visibleFrom = 150,
-			visibleTo = 500,
+			visibleFrom = 100,
+			visibleTo = 300,
 		},
 		{
 			node = {
@@ -747,7 +747,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/vt90_137/innen.mtl", },
-						mesh = "vehicle/train/vt90_137/rumpf_innen_lod0.msh",
+						mesh = "vehicle/train/vt90_137/rumpf_innen_lod2.msh",
 						name = "rumpf_innen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -804,7 +804,7 @@ return {
 				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 			},
 			static = false,
-			visibleFrom = 500,
+			visibleFrom = 300,
 			visibleTo = 2500,
 		},
 	},

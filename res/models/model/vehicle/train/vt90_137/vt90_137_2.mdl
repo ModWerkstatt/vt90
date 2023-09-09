@@ -765,7 +765,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/vt90_137/innen.mtl", },
-						mesh = "vehicle/train/vt90_137/rumpf_innen_lod0.msh",
+						mesh = "vehicle/train/vt90_137/rumpf_innen_lod2.msh",
 						name = "rumpf_innen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
