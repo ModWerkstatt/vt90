@@ -19,7 +19,7 @@ return {
 			rustScale = 100/100,
 		},
 		map_albedo = {
-			fileName = "models/vehicle/train/vt90_137/rumpf3_albedo_opacity.dds",
+			fileName = "models/vehicle/train/vt90_137/rumpf3_albedo.dds",
 			type = "TWOD",
 		},
 		map_metal_gloss_ao = {
