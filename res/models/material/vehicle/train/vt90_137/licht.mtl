@@ -11,7 +11,7 @@ return {
 			fadeOutStartDist = 10000,
 		},
 		map_emissive = {
-			fileName = "models/vehicle/plane/emissive/plane_all_lights.dds",
+			fileName = "models/vehicle/plane/emissive/train_all_lights.dds",
 			type = "TWOD",
 		},
 		polygon_offset = {
