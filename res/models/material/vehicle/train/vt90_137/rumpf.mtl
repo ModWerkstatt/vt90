@@ -32,7 +32,7 @@ return {
 			type = "TWOD",
 		},
 		map_cblend_dirt_rust = {
-			fileName = "models/vehicle/train/vt90_137/rumpf1_cblend_dirt_rust.dds",
+			fileName = "models/vehicle/train/vt90_137/rumpf_cblend_dirt_rust.dds",
 			type = "TWOD",
 		},
 		map_dirt = {
