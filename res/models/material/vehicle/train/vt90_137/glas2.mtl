@@ -1,0 +1,37 @@
+function data()
+return {
+	order = -1,
+    params = {
+		alpha_scale = {
+			alphaScale = 1,
+		},
+		alpha_test = {
+			alphaThreshold = 0.5,
+			cutout = false,
+		},
+		fade_out_range = {
+			fadeOutEndDist = 20000,
+			fadeOutStartDist = 10000,
+		},
+		map_albedo_opacity = {
+			fileName = "models/vehicle/train/vt90_137/glas_albedo_opacity.dds",
+			type = "TWOD",
+		},
+		map_metal_gloss_ao = {
+			fileName = "models/vehicle/train/vt90_137/glas_metal_gloss_ao.dds",
+			scaleDownAllowed = false,
+			type = "TWOD",
+		},
+		polygon_offset = {
+			forceDepthWrite = false,
+            factor = -1,
+            units = -1,
+		},
+		two_sided = {
+			flipNormal = false,
+			twoSided = false,
+		},
+	},
+	type = "PHYS_TRANSPARENT",
+}
+end
